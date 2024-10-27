@@ -1,0 +1,61 @@
+[
+    {
+        "icon": "Link",
+        "title": "网站列表",
+        "items": [
+            [
+                {
+                    "icon": "Blog",
+                    "name": "博客",
+                    "url": "https://notes.worstone.cn/"
+                }, {
+                    "icon": "Search",
+                    "name": "AI",
+                    "url": "https://kimi.moonshot.cn/"
+                }, {
+                    "icon": "CompactDisc",
+                    "name": "音乐",
+                    "url": "https://y.qq.com/"
+                }, {
+                    "icon": "Cloud",
+                    "name": "网盘",
+                    "url": "https://www.aliyundrive.com/"
+                }
+            ], [
+                    {
+                    "icon": "Train",
+                    "name": "开往",
+                    "url": "https://www.foreverblog.cn/go.html"
+                }, {
+                    "icon": "Book",
+                    "name": "背单词",
+                    "url": "https://kaiyiwing.gitee.io/qwerty-learner/"
+                }
+            ]
+        ]
+    }, {
+        "icon": "Bars",
+        "title": "功能列表",
+        "items": [
+            [
+                {
+                    "icon": "PencilAlt",
+                    "name": "一言",
+                    "method": "hitokoto"
+                }, {
+                    "icon": "SlidersH",
+                    "name": "播放器",
+                    "method": "player"
+                }, {
+                    "icon": "Music",
+                    "name": "音乐列表",
+                    "method": "music"
+                }, {
+                    "icon": "Cog",
+                    "name": "全局设置",
+                    "method": "setting"
+                }
+            ]
+        ]
+    }
+]
